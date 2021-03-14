@@ -2,12 +2,6 @@
 new repository-1
 
 
-
-
-
-
-
-
 hi new repository
 by leesungminn
 
